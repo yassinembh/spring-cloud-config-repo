@@ -1,0 +1,9 @@
+my:
+  greeting: Hello World from Config Server
+  list:
+    values: One, Two, Three, Four, Five
+
+db:
+  connection: DB_CON_STRING_FROM_CONFIG_SERVER
+  host: 127.0.0.1
+  port: 1200 
