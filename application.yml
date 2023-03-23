@@ -1,9 +1,9 @@
 my:
-  greeting: Hello World from Config Server
+  greeting: awedi ghir skrt glnalk
   list:
     values: One, Two, Three, Four, Five
 
 db:
-  connection: DB_CON_STRING_FROM_CONFIG_SERVER 
+  connection: kayn a 3chiri
   host: 127.0.0.1
   port: 1200 
